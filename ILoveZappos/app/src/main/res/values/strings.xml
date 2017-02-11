@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ILoveZappos</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">action_search</string>
+    <string name="display_in_grid">display in grid</string>
+    <string name="pref_display_grid">pref display grid</string>
+    <string name="display_all">Display all</string>
+    <string name="choose_a_category">Choose a category</string>
+    <string-array
+        name="categories">
+        <item>All</item>
+        <item>Dresses</item>
+        <item>Shirts</item>
+        <item>Shoes</item>
+    </string-array>
+</resources>
